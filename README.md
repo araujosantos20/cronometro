@@ -34,7 +34,7 @@ Projeto simples de um cronômetro feito com **HTML**, **CSS** e **JavaScript**, 
 ## 📁 Estrutura de arquivos
 
     📦 cronometro
-    ├── index.html
+    ├── cronometro.html
     ├── cronometro.css
     └── cronometro.js
     └── img/
