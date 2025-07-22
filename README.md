@@ -29,7 +29,7 @@ Projeto simples de um cronômetro feito com **HTML**, **CSS** e **JavaScript**, 
    cd cronometro
    ```
 
-3. Abra o arquivo `index.html` no navegador.
+3. Abra o arquivo `cronometro.html` no navegador.
 
 ## 📁 Estrutura de arquivos
 
